@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Watchdog": {
+      "commandName": "Project",
+      "commandLineArgs": "sync_folder_to_db C:\\Temp\\WatchdogFolder\\ http://127.0.0.1:8080 test"
+    }
+  }
+}
